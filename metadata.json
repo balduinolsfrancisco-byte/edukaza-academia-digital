@@ -1,0 +1,6 @@
+{
+  "name": "EDUKAZA",
+  "description": "EDUKAZA - Academia Digital: Plataforma de formação profissional e digital em Angola com cursos, avaliações, certificados e gestão administrativa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
